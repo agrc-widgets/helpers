@@ -1,3 +1,5 @@
+# NOTE: This repo has been replaced by https://github.com/agrc/kitchen-sink
+
 # helpers
 Helpers for other packages in this organization.
 
